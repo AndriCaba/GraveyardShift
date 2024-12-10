@@ -276,7 +276,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RPG Style (1)_0: 2716579417426921738
+      RPG Style (1)_1: 1011142766159526289
+      RPG Style (1)_2: 8633951887583426945
+      RPG Style (1)_3: -5027041979317496843
+      RPG Style (1)_4: 5489687603210764109
+      RPG Style (1)_5: 8479443487212808197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

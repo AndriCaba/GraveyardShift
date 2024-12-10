@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixel1_Healthbar_0004_Background_0: -4284943268938878351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

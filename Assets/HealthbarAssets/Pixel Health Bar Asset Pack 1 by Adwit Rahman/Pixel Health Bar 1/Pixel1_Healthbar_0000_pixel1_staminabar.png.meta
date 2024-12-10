@@ -348,7 +348,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixel1_Healthbar_0000_pixel1_staminabar_0: -650377292173869679
+      Pixel1_Healthbar_0000_pixel1_staminabar_1: -4739020072751693151
+      Pixel1_Healthbar_0000_pixel1_staminabar_2: -1714075887090686413
+      Pixel1_Healthbar_0000_pixel1_staminabar_3: -2267629636594353829
+      Pixel1_Healthbar_0000_pixel1_staminabar_4: 7192403350202489986
+      Pixel1_Healthbar_0000_pixel1_staminabar_5: -8722532060359236795
+      Pixel1_Healthbar_0000_pixel1_staminabar_6: 5520792816688851725
+      Pixel1_Healthbar_0000_pixel1_staminabar_7: 8850179559230409846
+      Pixel1_Healthbar_0000_pixel1_staminabar_8: 3099871843243591214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

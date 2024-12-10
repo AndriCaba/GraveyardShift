@@ -276,7 +276,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Health Bar Asset Pack by Adwit Rahman_0: -5639427826978692736
+      Health Bar Asset Pack by Adwit Rahman_1: 6118167060021194977
+      Health Bar Asset Pack by Adwit Rahman_2: -729329989289688379
+      Health Bar Asset Pack by Adwit Rahman_3: -4914511565347485109
+      Health Bar Asset Pack by Adwit Rahman_4: -6358516205643850199
+      Health Bar Asset Pack by Adwit Rahman_5: -6130745527765324333
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

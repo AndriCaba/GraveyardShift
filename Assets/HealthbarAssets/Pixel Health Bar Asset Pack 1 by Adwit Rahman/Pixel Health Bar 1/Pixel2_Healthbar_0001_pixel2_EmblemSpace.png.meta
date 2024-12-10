@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixel2_Healthbar_0001_pixel2_EmblemSpace_0: 8208700653080186354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

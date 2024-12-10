@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixel2_Healthbar_0000_Pixel2_HealthBarComplete_0: -2799080125220216615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
